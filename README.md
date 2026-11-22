@@ -134,9 +134,7 @@ SPDX-License-Identifier: `GPL-3.0-or-later`
 of Standards and Technology; see NIST's
 [terms of use](https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications).
 
-## Citation
-
-If you use this tool in published work, please cite the underlying data:
+## References
 
 > Berger, M. J., Hubbell, J. H., Seltzer, S. M., et al. *XCOM: Photon Cross Sections Database*, NIST Standard Reference Database 8 (XGAM). https://doi.org/10.18434/T48G6X
 >
